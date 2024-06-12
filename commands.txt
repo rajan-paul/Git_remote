@@ -21,4 +21,13 @@
 		- displays all the commit
 
 *	git log --oneline
-		-condensed version of git log
+		- condensed version of git log
+
+*	git push
+		- uploading files/folders from local repo to remote repo
+
+*	git pull
+		- retrieving cahnges from a remote repo and merges the local repo
+
+*	git clone
+		- creating a copy of a remote on your local repo
